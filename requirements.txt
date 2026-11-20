@@ -1,0 +1,16 @@
+# --- app (streamlit run app.py) ---
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+matplotlib
+anthropic
+google-genai
+
+# --- training (python train_model.py or the notebook) ---
+seaborn
+imbalanced-learn
+ipykernel
